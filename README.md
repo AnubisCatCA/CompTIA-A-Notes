@@ -1,6 +1,6 @@
 # 💻 CompTIA A+ Notes
 
-Welcome to my bilingual CompTIA A+ study notes (English titles with Chinese explanations 🇨🇦🇨🇳).
+Welcome to my bilingual CompTIA A+ study notes .This is the beginning of my notes for studying CompTIA-A+, and also the beginning of my adaptation to using Github.
 
 ## 🧩 Table of Contents
 ### 📘 Core 1 (220-1201)
