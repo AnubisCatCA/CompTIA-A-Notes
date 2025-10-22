@@ -7,4 +7,4 @@ Welcome to my bilingual CompTIA A+ study notes .This is the beginning of my note
 ### 📘 Core 1 (220-1201)
 1. [1.1 Laptop Hardware](./1.1-Laptop-Hardware.md)
 2. [1.2 Mobile Devices and Mobile Device Management](./1.2-Mobile-Devices-and-Mobile-Device-Management.md)
-3. [2.1 Networking](./2.1-Networking.md)
+3. [2.1 Networking Protocols](./2.1-Networking-Protocols.md)
